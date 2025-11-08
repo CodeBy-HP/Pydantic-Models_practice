@@ -1,0 +1,2 @@
+phone: str
+    email: EmailStr
